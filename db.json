@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Joey Torp",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 4,
+      "title": "Unbranded Cotton Shirt",
+      "id": 1
+    },
+    {
+      "userId": 4,
+      "title": "Elegant Concrete Mouse",
+      "id": 2
+    },
+    {
+      "userId": 5,
+      "title": "Refined Plastic Pants",
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "title": "Refined Plastic Chicken",
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "title": "Rustic Rubber Shoes",
+      "id": 5
+    }
+  ],
+  "photos": []
+}
